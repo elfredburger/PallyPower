@@ -10,3 +10,4 @@
 
 
 https://turtle-wow.org/
+Blessings time changed to 10 and 30 min
